@@ -50,3 +50,14 @@ function TocaSomTom(){
     document.querySelector('#som_tecla_tom').play();
 }
 document.querySelector('.tecla_tom').onclick = TocaSomTom;
+
+
+
+
+
+
+
+function TocaSomNossaNossa(){
+    document.querySelector('#som_tecla_NossaNossa').play();
+}
+document.querySelector('.tecla_NossaNossa').onclick = TocaSomNossaNossa;
